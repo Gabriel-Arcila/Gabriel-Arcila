@@ -11,7 +11,7 @@ Soy una persona muy dedicada, disciplinada y con ganas de seguir aprendiendo, au
 
 >[![linkedin](https://img.shields.io/badge/Linkedin-white?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=white)](https://www.linkedin.com/in/gabriel-arcila-programmer) [![platzi](https://img.shields.io/badge/Platzi-white?style=for-the-badge&logo=platzi&logoColor=98CA3F&labelColor=white)](https://platzi.com/p/Gabriel_Arcila) [![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=microsoftoutlook&logoColor=0078D4&labelColor=white)](mailto:gabriel_jesus1122@hotmail.com)
 
-## Mas Tecnologias
+## Mas Tecnologías
 
 > [![HTML](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=white)]() [![CSS3](https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=white)]() [![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=white)]()
 
@@ -23,6 +23,6 @@ Soy una persona muy dedicada, disciplinada y con ganas de seguir aprendiendo, au
 
 ## Habilidades Blandas
 
-- Capacidad de analisis de grandes cantidadades de data
+- Capacidad de análisis de grandes cantidades de data 
 - Creatividad e ingenio para resolver problemas
 - Trabajo en equipo de manera organizada siguiendo la cultura DevOps
